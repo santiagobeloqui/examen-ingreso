@@ -1,0 +1,13 @@
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\bin\Debug\netcoreapp3.1\ExamenIngreso.exe
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\bin\Debug\netcoreapp3.1\ExamenIngreso.deps.json
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\bin\Debug\netcoreapp3.1\ExamenIngreso.runtimeconfig.json
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\bin\Debug\netcoreapp3.1\ExamenIngreso.runtimeconfig.dev.json
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\bin\Debug\netcoreapp3.1\ExamenIngreso.dll
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\bin\Debug\netcoreapp3.1\ExamenIngreso.pdb
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\netcoreapp3.1\ExamenIngreso.csprojAssemblyReference.cache
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\netcoreapp3.1\ExamenIngreso.AssemblyInfoInputs.cache
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\netcoreapp3.1\ExamenIngreso.AssemblyInfo.cs
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\netcoreapp3.1\ExamenIngreso.csproj.CoreCompileInputs.cache
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\netcoreapp3.1\ExamenIngreso.dll
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\netcoreapp3.1\ExamenIngreso.pdb
+C:\Users\sabel\source\repos\ExamenIngreso\ExamenIngreso\obj\Debug\netcoreapp3.1\ExamenIngreso.genruntimeconfig.cache
