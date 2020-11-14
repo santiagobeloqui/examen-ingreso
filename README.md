@@ -11,6 +11,6 @@
 5) La diferencia entre Agregación y Composición es que, si bien ambas representan una relación de Todo/Parte, en la Agregación los objetos existen independientemente de la relación, es decir que si el objeto Todo es eliminado, el objeto Parte puede seguir existiendo. En cambio, en la Composición las partes viven y mueren en el objeto Todo, por lo que si este es eliminado el objeto Parte también desaparece.
 
 6)
-a. V
-b. F
-c. F
+a) V
+b) F
+c) F
